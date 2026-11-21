@@ -58,3 +58,11 @@ Project files are organized by analytical tool and include scripts, spreadsheets
 
 ## Purpose
 This project demonstrates practical experience in data preparation, descriptive analysis, SQL querying, statistical modeling, and data visualization using multiple analytical tools.
+
+## Additional Analyses
+
+### Zero Analysis of Insurance Expenditures
+
+An Excel-based descriptive analysis comparing
+households with zero and positive insurance
+expenditures across four insurance categories.
